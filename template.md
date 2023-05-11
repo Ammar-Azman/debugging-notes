@@ -4,21 +4,26 @@
 * Time: `time issue>`  <br>
 * Error: `error produced` <br>
 * Specific: `Details description of issues` <br>
-* Folder tree (during error):
+* Problem hypothesis:
+  * details
+  * details
+  * details
+* Folder tree (if any during error):
 ```
-Folder tree
+Folder tree example
+
+project
+   |- module
+   |- file.py
 ```
 ## Solution
-* Solution description
-* 
+* Action taken
+* Action taken
 ```
-Solution
+Code solution
 ```
 
-* Problem hypothesis:
-  * Hypothesis details
-  *
-  *
+
 
 ## Status 
 - [x] **Solved**
